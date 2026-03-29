@@ -1,11 +1,7 @@
-# Azuel Aguiar
-### Software Engineer | Cloud Architect | AWS Certified
-
-
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Computer Illustration" min-width="400px" max-width="400px" width="400px" align="right">
 
 
-## Professional Summary
+### Professional Summary
 
 
 Software Engineer with **5+ years of experience** building scalable and resilient production systems. Focused on high-level system design, distributed architectures, and optimizing cloud-native solutions within the **AWS ecosystem**.
@@ -18,7 +14,7 @@ Software Engineer with **5+ years of experience** building scalable and resilien
 * **Specialization:** Node.js & AWS Ecosystem
 
 
-## Technical Stack
+### Technical Stack
 
 
 **Languages & Frameworks (Back-end Focus)**
@@ -33,7 +29,7 @@ Software Engineer with **5+ years of experience** building scalable and resilien
 > PostgreSQL, DynamoDB, Redis, OpenSearch
 
 
-## Contact
+### Contact
 
 
 <div align="left">
