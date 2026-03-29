@@ -37,7 +37,7 @@ Software Engineer with **5+ years of experience** building scalable and resilien
 
 
 <div align="left">
-  <a href="www.linkedin.com/in/azuel-aguiar-04837a139" target="_blank">
+  <a href="https://www.linkedin.com/in/azuel-aguiar-04837a139" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge">
   </a>
 </div>
