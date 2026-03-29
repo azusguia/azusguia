@@ -33,15 +33,6 @@ Software Engineer with **5+ years of experience** building scalable and resilien
 > PostgreSQL, DynamoDB, Redis, OpenSearch
 
 
-## GitHub Stats
-
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=azusguia&show_icons=true&theme=transparent&include_all_commits=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azusguia&layout=compact&langs_count=7&theme=transparent" />
-</div>
-
-
 ## Contact
 
 
